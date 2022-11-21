@@ -11,3 +11,4 @@ Yes. I know. I haven't finish my grammar class yet. Any contribution on fix the 
 
 ### AI
 - So BCI can decode neural's signal to text. Can we decode model's parameters to model's prediction?
+- An activation function as a neural network
