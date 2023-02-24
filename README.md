@@ -23,4 +23,4 @@ List of things that I'd love to work on
 - So BCIs can decode neural signals to text. Can we decode a model's parameters to a model's prediction?
 - An activation function as a neural network
 - A loss function for self-awareness
-- A dataset to train a neural network for general intelligence"
+- A dataset to train a neural network for general intelligence
